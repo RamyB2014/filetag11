@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="MadCap HTML5 Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  ConditionTagExpression="exclude[Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web]"
+  Skin="/Project/Skins/Tripane-responsive.flskn"
+  OutputFile="ExcludeWeb">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+</CatapultTarget>

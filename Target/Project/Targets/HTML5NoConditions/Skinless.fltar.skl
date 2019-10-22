@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget Version="2" Comment="New Target" Type="WebHelp2" Destinations="" ShowMadCapBacklink="true" GlossaryTermConversion="marked" Skin="(none)" MasterPage="/Content/Resources/MasterPage.flmsp" SearchEngine="MadCapSearch" ExcludeUnreferencedContent="true">
+    <PrintedOutput CollapseMargins="true" GenerateTOCProxy="true" GenerateIndexProxy="true" GenerateGlossaryProxy="true" OutputFormat="docx" />
+    <Elasticsearch Guid="7d50bdc1-7a99-47fb-9118-c29f4db70d45" />
+</CatapultTarget>

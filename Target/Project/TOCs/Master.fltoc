@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultToc
+  Version="1">
+  <TocEntry
+    Title="RemoveContent">
+    <TocEntry
+      Title="Inline Remove Condition"
+      Link="/Content/RemoveContent/InlineRemoveCondition.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Stylesheet Remove Condition"
+      Link="/Content/RemoveContent/StylesheetRemoveCondition.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="UnbindContent">
+    <TocEntry
+      Title="Inline Unbind Condition "
+      Link="/Content/UnbindContent/InlineUnbindCondition.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Stylesheet Unbind Condition "
+      Link="/Content/UnbindContent/StylesheetUnbindCondition.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="WebFolderConditionRemoveContent">
+    <TocEntry
+      Title="Inline Remove Condition My web footnoteMy tablet footnoteMy mobile footnoteMy web tablet mobile footnote"
+      Link="/Content/WebFolderConditionRemoveContent/InlineRemoveCondition.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Stylesheet Remove Condition My web footnoteMy tablet footnoteMy mobile footnoteMy web tablet mobile footnote"
+      Link="/Content/WebFolderConditionRemoveContent/StylesheetRemoveCondition.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="WebFolderConditionUnbindContent">
+    <TocEntry
+      Title="Inline Unbind Condition My web footnoteMy tablet footnoteMy mobile footnoteMy web tablet mobile footnote"
+      Link="/Content/WebFolderConditionUnbindContent/InlineUnbindCondition.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Stylesheet Unbind Condition My web footnoteMy tablet footnoteMy mobile footnoteMy web tablet mobile footnote"
+      Link="/Content/WebFolderConditionUnbindContent/StylesheetUnbindCondition.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="WebFileConditionUnbindContent">
+    <TocEntry
+      Title="Inline Unbind Condition My web footnoteMy tablet footnoteMy mobile footnoteMy web tablet mobile footnote"
+      Link="/Content/WebFileConditionUnbindContent/InlineUnbindCondition.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+    <TocEntry
+      Title="Stylesheet Unbind Condition My web footnoteMy tablet footnoteMy mobile footnoteMy web tablet mobile footnote"
+      Link="/Content/WebFileConditionUnbindContent/StylesheetUnbindCondition.htm"
+      MadCap:generatedToc="true" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd" />
+  </TocEntry>
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/MobileTopic.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/TabletTopic.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet" />
+  <TocEntry
+    Title="[%=System.LinkedTitle%]"
+    Link="/Content/WebTopic.htm" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd"
+    conditions="Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web" />
+</CatapultToc>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<reltable xmlns="http://docs.oasis-open.org/dita/v1.1/schema/ditabase.xsd" xmlns:MadCap="http://www.madcapsoftware.com/Schemas/MadCap.xsd">
+  <relheader>
+    <relcolspec
+      type="concept" />
+    <relcolspec
+      type="task" />
+    <relcolspec
+      type="reference" />
+  </relheader>
+  <relrow>
+    <relcell>
+      <topicref
+        href="/Content/RemoveContent/InlineRemoveCondition.htm" />
+    </relcell>
+    <relcell>
+      <topicref
+        href="/Content/MobileTopic.htm" />
+      <topicref
+        href="/Content/WebTopic.htm" />
+    </relcell>
+    <relcell>
+      <topicref
+        href="/Content/TabletTopic.htm" />
+    </relcell>
+  </relrow>
+</reltable>

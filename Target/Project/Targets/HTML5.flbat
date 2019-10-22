@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultBatchTarget
+  Version="1"
+  Comment="New Batch Target">
+  <Targets>
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="CleanXHTML - ExcludeMobile"
+      Type="Clean XHTML" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="DITA - ExcludeMobile"
+      Type="DITA" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="DotNet - ExcludeMobile"
+      Type="DotNet Help" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Eclipse - ExcludeMobile"
+      Type="Eclipse Help" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="EPUB - ExcludeMobile"
+      Type="EPUB" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Frame - ExcludeMobile"
+      Type="FrameMaker" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5-DBMQ/SideNav"
+      Type="HTML5"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5-DBMQ/Skinless"
+      Type="HTML5"
+      Build="true"
+      LastBuilt="2018-12-19T12:58:51.1360349-08:00" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5-DBMQ/TopNav"
+      Type="HTML5"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5-DBMQ/TriPane"
+      Type="HTML5"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5-DBMQALL/SideNav"
+      Type="HTML5"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5-DBMQALL/Skinless"
+      Type="HTML5"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5-DBMQALL/TopNav"
+      Type="HTML5"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5-DBMQALL/TriPane"
+      Type="HTML5"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5-ExcludeWeb/SideNav"
+      Type="HTML5"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5-ExcludeWeb/Skinless"
+      Type="HTML5"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5-ExcludeWeb/TopNav"
+      Type="HTML5"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5-ExcludeWeb/TriPane"
+      Type="HTML5"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5-IncludeWeb/SideNav"
+      Type="HTML5"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5-IncludeWeb/Skinless"
+      Type="HTML5"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5-IncludeWeb/TopNav"
+      Type="HTML5"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTML5-IncludeWeb/TriPane"
+      Type="HTML5"
+      Build="true" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="HTMLHelp - ExcludeMobile"
+      Type="HTML Help" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="PDF - ExcludeMobile"
+      Type="PDF" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="WebHelp - ExcludeMobile"
+      Type="WebHelp" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="WebHelp Plus - ExcludeMobile"
+      Type="WebHelp Plus" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="WebhelpAir"
+      Type="Unsupported Target Type" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="WHMobile - ExcludeMobile"
+      Type="WebHelp Mobile" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="Word - ExcludeMobile"
+      Type="Word" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="XHTMLBook - ExcludeMobile"
+      Type="XHTML Book" />
+    <Target
+      Icon="System.Drawing.Bitmap"
+      Name="XPS"
+      Type="Unsupported Target Type" />
+  </Targets>
+</CatapultBatchTarget>

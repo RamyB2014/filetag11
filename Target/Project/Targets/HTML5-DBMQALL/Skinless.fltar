@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<CatapultTarget
+  Version="2"
+  Comment="MadCap HTML5 Target"
+  Type="WebHelp2"
+  Destinations=""
+  GlossaryTermConversion="marked"
+  ConditionTagExpression="@media web[Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile or Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet or Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web], @media tablet[Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile or Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet or Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web], @media mobile[Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Mobile or Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Tablet or Level1/Level2/Level3/Level4/Level5/Level6/SubfolderSet.Web]"
+  Skin="(none)"
+  MasterPage="/Content/Resources/MasterPage.flmsp"
+  TopicToolbarSkin="/Project/Skins/TopicToolbar.flskn"
+  SearchBarSkin="/Project/Skins/SearchBarComp.flskn"
+  OutputFile="DBMQALL">
+  <PrintedOutput
+    CollapseMargins="true"
+    GenerateTOCProxy="true"
+    GenerateIndexProxy="true"
+    GenerateGlossaryProxy="true" />
+</CatapultTarget>
